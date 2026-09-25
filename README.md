@@ -326,7 +326,7 @@ Categories
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/Tarek-Hatem-46/market-api
 ```
 
 ### 2. Navigate to the project
@@ -503,4 +503,4 @@ This project was built as a backend learning project to practice building RESTfu
 
 Backend Developer | PHP & Laravel
 
-GitHub: [text](https://github.com/Tarek-Hatem-46)
+GitHub: [Tarek Hatem](https://github.com/Tarek-Hatem-46)
